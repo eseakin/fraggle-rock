@@ -1,6 +1,6 @@
 // This file contains Game related configuration gobally acccesible to other files
 
 module.exports = {
-  throttleLimit: 3,
-  throttleTime: 1000,
+  throttleLimit: 5,
+  throttleTime: 100,
 };
