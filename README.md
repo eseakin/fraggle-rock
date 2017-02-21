@@ -5,6 +5,8 @@ Hosted at www.smashballbrawl.com
 
 ![ScreenShot](logo-transparent.png)
 
+![ScreenShot](client/textures/menubg.jpg)
+
 ## Team
 
   - __Product Owner__: Eric Eakin
@@ -14,7 +16,7 @@ Hosted at www.smashballbrawl.com
 ## Usage
 
 `npm install`
-`npm build`
+`npm run build`
 `npm start`
 
 ## Development
